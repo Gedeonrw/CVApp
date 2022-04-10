@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CVApp</string>
+    <string name="app_name">CVBuilderApp</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -9,75 +9,76 @@
 
     <string name="menu_home">Home</string>
     <string name="menu_gallery">About Me</string>
-    <string name="menu_slideshow">Work</string>
-    <string name="menu_tools">Contact</string>
+    <string name="menu_slideshow">Work Experience</string>
+    <string name="menu_tools">Contacts</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
 
-    <string name="my_name">Jean Claude Mugenzi</string>
-    <string name="my_dob">Date of birth: 11-10-1989</string>
+    <string name="my_name">Gedeon NIYONSENGA</string>
+    <string name="my_dob">Date of birth: 06-07-1991</string>
     <string name="my_profession">Software Developer</string>
-    <string name="my_description">Enthusiastic Full Stack Java Developer with 4 years of experience leading projects through all phases of software development life cycle while implementing latest technologies. Design systems according to OOP standards as well as Java programming principles for frontend and backend applications. Skilled in implementing technologies such as Java, Java EE, JSP, AJAX, RESTful, PrimeFaces, MySQL, and PostgreSQL. Experienced in implementing projects with design patterns, web services, and latest frameworks in financial and commercial business domains. </string>
-    <string name="my_phone">Date of birth: 11-10-1989</string>
-    <string name="my_email">Email: jmugenzi@mum.edu</string>
-    <string name="my_twitter">Twitter: \@claudemugenzi</string>
-    <string name="my_facebook">Facebook: Jean Claude Mugenzi</string>
-    <string name="my_linkedin">Linkedin: https://www.linkedin.com/in/jean-claude-mugenzi-452663130</string>
-    <string name="my_instagram">Instagram: /@claudemugenzi</string>
+    <string name="my_description">I am java developer with 5 years of experience in developing software applications, I am backend developer and have experience with technologies like java, spring, springboot, and different database designs</string>
+    <string name="my_phone">+19729039498</string>
+    <string name="my_email">Email: gniyonsenga@mum.edu</string>
+    <string name="my_twitter">Twitter: \@gedeonNiyonsenga</string>
+    <string name="my_facebook">Facebook: gedeonNiyonsenga</string>
+    <string name="my_linkedin">Linkedin: https://www.linkedin.com/in/gedeon-niyonsenga</string>
+    <string name="my_instagram">Instagram: /@gedeonNiyonsenga</string>
 
-    <string name="my_address">Address: 1000 North 4th Street, MR#229. Building 141, Room 131. Fairfield, Iowa, United State of America.</string>
-    <string name="about_me">Key skills and Experience: Bachelor\'s Degree of Science in Information Technology, 5 years of professional experience in software development using Java Technologies and 1 year as assistant lecturer in C programming, Java and Web Technology.</string>
-    <string name="objective">Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in jQuery, Databases, Java, Spring Boot, and Play Framework. Strong engineering professional with a Bachelor\'s degree focused in Information Technology from Adventist University of Central Africa.</string>
+    <string name="my_address">Address: 600 south MacArthur blvd apt 328 Coppell Texas 75019</string>
+    <string name="About">Key skills and Experience: Bachelor\'s Degree in Electronics and Telecommunication, 4 years of experience in developing, deploying, and maintaining business-critical enterprise software as key member of elite technical teams. Highly versatile; constantly developing expertise in new and emerging technologies. Hands-on experience in software development and testing using Java</string>
+    <string name="Overview">Accomplished software engineer with more than 6 years of overall IT industry experience, including 4 years of experience in developing, deploying, and maintaining business-critical enterprise software as key member of elite technical teams. Highly versatile; constantly developing expertise in new and emerging technologies. Hands-on experience in software development and testing using Java. Adaptable team player with talent for collaboration and communication with diverse technical and cross-functional teams and interested in learning new technologies.</string>
 
-    <string name="skills">Programming Languages: Java, C++, C#.
-Software Development Environment/Framework: Hibernate, Spring, Java Server Faces, Primefaces, ZK, Node.js, AngularJS, Etc.
-Databases: PostgreSql, MySQL, Sql Server, Oracle, LDAP, MongoDB.
-Tools: Eclipse, Netbeans, Enterprise Architect, SonarCube, Jenkins, SVN, JMeter.
-Platforms: Windows, Linux, MacOs.
-</string>
-    <string name="firstJob">A.	RWANDA MINISTRY OF FINANCE AND ECONOMIC PLANNING,
-From June 2017 up to now.
-</string>
-    <string name="secondJob">B.	4B TECHNOLOGY LIMITED, From June 2014 up to 2017.
-</string>
-    <string name="project1">1.	School Data Management System (SDMS)</string>
-    <string name="project2">2.	EJO HEZA – Long Term Saving Scheme (LTSS)</string>
-    <string name="project3">3.	Integrated Financial Management Information System (IFMIS)</string>
-    <string name="responsibility">•	Designed and implemented the user interfaces (UI).
-•	Designed, documented and developed system functionalities such as:
-1.	User management module (user role, user permissions, allowed menus, allowed action).
-2.	Accounting module (Account management, Balance management, Chart of Account).
-3.	Payment module (Transaction Management, integration with banks and mobile network operators).
-4.	Agent and Intermediary management (Registration, profile).
-5.	Agent Commission module.
-6.	Pre-payment deposit module.
-7.	Subscriber Benefit claim module.
-8.	Benefit Payment Module.
+    <string name="skills">Languages:  Java 8,7,6,1.5
+Web:  HTML5, CSS3, JavaScript, JQuery, Bootstrap, Servlets, JSP
+Web Services:  REST, Microservices
+Web and Application Servers:  Apache Tomcat
+Frameworks:  Spring MVC, Spring Boot, Hibernate, Mockito
+Databases:  Cosmos Db, SQL Server MS, MySQL, MongoDB
+Design Patterns:  Singleton, Factory Method, Prototype
+Tools:  Eclipse, Intellij, Visual Studio code, Maven, Git, StarUml, Postman, swagger, scenebuilder, Spring Tool Suite (STS), Docker, kubernetes, Kafka, Jenkins, RabbitMQ, AtiveMQ
+Platforms:  Windows, Apple
+SDLC: Agile, Scrum
 
-•	Performed Unit Tests.
-•	Used: JAVA, JavaScript, HTML, CSS, Ajax, jQuery, Windows and Linux, Eclipse IDE, Hibernate and Spring Framework, Java Server Faces and Primefaces, PostgreSQL, MongoDB, LDAP, TomCat, Nginx, SonarCube, Jenkins, SVN, JMeter.
+</string>
+    <string name="firstJob">Software Engineer in Bank of Kigali, 2014 - 2020
+</string>
+    <string name="secondJob">Walmart labs 2021 - present
+</string>
+    <string name="project1">1.	Driver Metrics</string>
+    <string name="project2">2.	Driver Messaging</string>
+    <string name="project3">3.  Driver earning Adjustment</string>
+    <string name="responsibility">•	Working in driver performance team as backend Developer
+•	Worked on different projects for Walmart and currently I am working on new project called proposition 22 which will help in paying California drivers amount which is above minimum wage of CA zones they worked in
+•	I use core Java, J2EE in Spring Boot, ORM frameworks like Hibernate, Cosmos db, meghacache, kafka, as technologies in my tasks and write unit test cases using Junit and Mockito
+•	Used postman to test Api endpoints and to upload the pricing templates, Swagger
+•	Experience in CI/CD using GitHub, Looper (Walmart CI tool which built on top of Jenkins), SonarQube and Contributing to all phases of the software development lifecycle
+
+•	Technologies Used: IntelliJ, Eclipse, Vs code, MySQL, Java, HTML5, CSS3, Spring, Spring boot, Bootstrap, MongoDB, Cassandra, postman, swagger, Git
+
 </string>
 
-    <string name="design">1. Design</string>
-    <string name="uml">UML 2.0	I am experienced in visualize, specify, construct and document software using UML 2.0 language.
-Tools	Enterprise Architect 11 and Rational Rose 7.</string>
+<!--    <string name="design">Design</string>-->
+<!--    <string name="uml">UML 2.0	I am experienced in visualize, specify, construct and document software using UML 2.0 language.-->
+<!--Tools	Enterprise Architect 11 and Rational Rose 7.</string>-->
 
-    <string name="programming">2. Computer Programming languages, Frameworks and Tools</string>
-    <string name="programmingSkills">Server-Side Development with Java	Experienced in developing web based software applications using JSP, Servlets, Java Server Faces2, Struts2, Core Spring Framework 2, Primefaces and Apache Shiro.
-Client-side development languages and techniques	JavaScript, HTML5, CSS3, Ajax jQuery.
-Tools	Eclipse and NetBeans for software development.
- 	SonarCube and Jenkins for code quality review and software testing.
- 	Apache Subversion often abbreviated SVN for teamwork sharing and maintain current and historical versions of source code.
+    <string name="programming"> Skills</string>
+    <string name="programmingSkills">•	Working in driver performance team as backend Developer
+•	Worked on different projects for Walmart and currently I am working on new project called proposition 22 which will help in paying California drivers amount which is above minimum wage of CA zones they worked in
+•	I use core Java, J2EE in Spring Boot, ORM frameworks like Hibernate, Cosmos db, meghacache, kafka, as technologies in my tasks and write unit test cases using Junit and Mockito
+•	Used postman to test Api endpoints and to upload the pricing templates, Swagger
+•	Experience in CI/CD using GitHub, Looper (Walmart CI tool which built on top of Jenkins), SonarQube and Contributing to all phases of the software development lifecycle
+
 </string>
-    <string name="db">3. Database Management Systems (DBMS)</string>
-    <string name="dbSkills">Experience in creation and administration of relational databases using Oracle 11g, PostgreSQL9 and MySQL5.</string>
+    <string name="db">2. Database Design</string>
+    <string name="dbSkills">Cosmos Db, SQL Server MS, MySQL, MongoDB</string>
     <string name="graduate">
-    Maharishi University of Management (MUM), Master of Computer Science. 2019, Fairfield, Iowa, United State of America.
+    Masters in Computer Science at Maharishi International University 2022, Fairfield, Iowa, United States of America.
 </string>
     <string name="undergraduate">
-    Adventist University of Central Africa (AUCA), Bachelor of Information Technology. 2014, Masoro, Kigali, Rwanda.
+    University of Rwanda, College of Science and Technology
 </string>
-    <string name="highschool">
-    Ecole Des Science Byimana, Advances Level in Mathematics and Physics. 2008, Byimana, Muhanga, Rwanda.
-</string>
+<!--    <string name="highschool">-->
+<!--    Ecole Des Science Byimana, Advances Level in Mathematics and Physics. 2008, Byimana, Muhanga, Rwanda.-->
+<!--</string>-->
 </resources>

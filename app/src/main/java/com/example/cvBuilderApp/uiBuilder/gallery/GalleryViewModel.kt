@@ -1,4 +1,4 @@
-package com.example.cvapp.ui.gallery
+package com.example.cvBuilderApp.uiBuilder.gallery
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

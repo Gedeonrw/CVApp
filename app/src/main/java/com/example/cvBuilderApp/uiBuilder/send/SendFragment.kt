@@ -1,4 +1,4 @@
-package com.example.cvapp.ui.send
+package com.example.cvBuilderApp.uiBuilder.send
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,7 +8,7 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
-import com.example.cvapp.R
+import com.example.cvBuilderApp.R
 
 class SendFragment : Fragment() {
 

@@ -40,10 +40,10 @@
         android:text="Objectives"
         android:textStyle="bold" />
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/objective" />
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="@string/objective" />-->
 
     <Space
         android:layout_width="match_parent"
@@ -59,16 +59,16 @@
         android:layout_width="match_parent"
         android:layout_height="20dp"></Space>
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/design"
-        android:textStyle="bold" />
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="@string/design"-->
+<!--        android:textStyle="bold" />-->
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/uml" />
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="@string/uml" />-->
 
     <Space
         android:layout_width="match_parent"

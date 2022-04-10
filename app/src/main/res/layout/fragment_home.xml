@@ -20,7 +20,7 @@
             android:layout_height="162dp"
             android:layout_marginTop="32dp"
             android:contentDescription="No Image"
-            app:srcCompat="@drawable/jean" />
+            app:srcCompat="@drawable/gedeon" />
 
         <TextView
             android:layout_width="match_parent"
@@ -48,9 +48,14 @@
             android:layout_height="wrap_content"
             android:text="@string/my_description" />
 
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="63dp"
             android:orientation="horizontal">
 
             <ImageView
@@ -80,6 +85,6 @@
         android:layout_height="0dp"
         android:layout_weight="0.05"
         android:gravity="center"
-        android:text="© MDP Group 5 - 2019"
+        android:text="© Gedeon CV App"
         android:textSize="20sp" />
 </LinearLayout>

@@ -1,4 +1,4 @@
-package com.example.cvapp
+package com.example.cvBuilderApp
 
 import android.os.Bundle
 import com.google.android.material.floatingactionbutton.FloatingActionButton
@@ -13,12 +13,9 @@ import com.google.android.material.navigation.NavigationView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import android.view.Menu
-import android.view.View
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentTransaction
-import com.example.cvapp.ui.gallery.GalleryFragment
-import com.example.cvapp.ui.home.HomeFragment
-import com.example.cvapp.ui.personal.PersonalInfoFragment
+import com.example.cvBuilderApp.uiBuilder.gallery.GalleryFragment
 
 class MainActivity : AppCompatActivity() {
     lateinit var fmanager: FragmentManager

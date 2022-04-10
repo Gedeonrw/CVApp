@@ -1,4 +1,4 @@
-package com.example.cvapp.ui.gallery
+package com.example.cvBuilderApp.uiBuilder.gallery
 
 import android.app.Activity
 import android.os.Bundle
@@ -12,11 +12,10 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentTransaction
-import com.example.cvapp.R
-import com.example.cvapp.ui.personal.ContactFragment
-import com.example.cvapp.ui.personal.EducationFragment
-import com.example.cvapp.ui.personal.PersonalInfoFragment
-import com.example.cvapp.ui.personal.WorkFragment
+import com.example.cvBuilderApp.R
+import com.example.cvBuilderApp.uiBuilder.personal.EducationFragment
+import com.example.cvBuilderApp.uiBuilder.personal.PersonalInfoFragment
+import com.example.cvBuilderApp.uiBuilder.personal.WorkFragment
 
 @Suppress("DEPRECATION")
 class GalleryFragment : Fragment() {

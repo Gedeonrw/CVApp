@@ -1,4 +1,4 @@
-package com.example.cvapp
+package com.example.cvBuilderApp
 
 import org.junit.Test
 
