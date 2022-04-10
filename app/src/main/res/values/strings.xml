@@ -41,10 +41,12 @@ Platforms:  Windows, Apple
 SDLC: Agile, Scrum
 
 </string>
-    <string name="firstJob">Software Engineer in Bank of Kigali, 2014 - 2020
+    <string name="firstJob">Walmart labs 2021 - present
+<!--    <string name="firstJob">Software Engineer in Bank of Kigali, 2014 - 2020-->
+
 </string>
-    <string name="secondJob">Walmart labs 2021 - present
-</string>
+<!--    <string name="secondJob">Walmart labs 2021 - present-->
+<!--</string>-->
     <string name="project1">1.	Driver Metrics</string>
     <string name="project2">2.	Driver Messaging</string>
     <string name="project3">3.  Driver earning Adjustment</string>
@@ -70,7 +72,7 @@ SDLC: Agile, Scrum
 •	Experience in CI/CD using GitHub, Looper (Walmart CI tool which built on top of Jenkins), SonarQube and Contributing to all phases of the software development lifecycle
 
 </string>
-    <string name="db">2. Database Design</string>
+    <string name="db">Database Design</string>
     <string name="dbSkills">Cosmos Db, SQL Server MS, MySQL, MongoDB</string>
     <string name="graduate">
     Masters in Computer Science at Maharishi International University 2022, Fairfield, Iowa, United States of America.

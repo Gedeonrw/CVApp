@@ -80,10 +80,10 @@
         android:layout_width="match_parent"
         android:layout_height="30dp"></Space>
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/secondJob" />
+<!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="@string/secondJob" />-->
 
     <TextView
         android:layout_width="match_parent"
