@@ -28,16 +28,15 @@ class MainActivity : AppCompatActivity() {
         val toolbar: Toolbar = findViewById(R.id.toolbar)
         setSupportActionBar(toolbar)
 
-        val fab: FloatingActionButton = findViewById(R.id.fab)
+        val fab: FloatingActionButton = findViewById(R.id.email)
         fab.setOnClickListener { view ->
-            Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+            Snackbar.make(view, "Use this icon to send email", Snackbar.LENGTH_LONG)
                 .setAction("Action", null).show()
         }
         val drawerLayout: DrawerLayout = findViewById(R.id.drawer_layout)
         val navView: NavigationView = findViewById(R.id.nav_view)
         val navController = findNavController(R.id.nav_host_fragment)
-        // Passing each menu ID as a set of Ids because each
-        // menu should be considered as top level destinations.
+
         appBarConfiguration = AppBarConfiguration(
             setOf(
                 R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow,
@@ -50,18 +49,14 @@ class MainActivity : AppCompatActivity() {
 
     fun test(){
         fmanager = supportFragmentManager
-        //get the object for FragmentTransaction and Initialize the transaction
+
         tx = fmanager.beginTransaction()
-        /* by default we are going to show the HomeFragment in onCreate() method using add() method
-            * add() method accepts two parameters -
-            * 1. id of fragment 2.object of Fragment class*/
+
         tx.add(R.id.frame1, GalleryFragment())
-        // Commit the fragment transaction
         tx.commit()
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
-        // Inflate the menu; this adds items to the action bar if it is present.
         menuInflater.inflate(R.menu.main, menu)
         return true
     }

@@ -2,8 +2,8 @@
     <string name="app_name">CVBuilderApp</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Gedeon Niyonsenga</string>
+    <string name="nav_header_subtitle">gniyonsenga@miu.edu</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
@@ -14,11 +14,12 @@
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
 
+
     <string name="my_name">Gedeon NIYONSENGA</string>
     <string name="my_dob">Date of birth: 06-07-1991</string>
     <string name="my_profession">Software Developer</string>
     <string name="my_description">I am java developer with 5 years of experience in developing software applications, I am backend developer and have experience with technologies like java, spring, springboot, and different database designs</string>
-    <string name="my_phone">+19729039498</string>
+    <string name="my_phone">Phone Number : +19729039498</string>
     <string name="my_email">Email: gniyonsenga@mum.edu</string>
     <string name="my_twitter">Twitter: \@gedeonNiyonsenga</string>
     <string name="my_facebook">Facebook: gedeonNiyonsenga</string>
@@ -29,58 +30,43 @@
     <string name="About">Key skills and Experience: Bachelor\'s Degree in Electronics and Telecommunication, 4 years of experience in developing, deploying, and maintaining business-critical enterprise software as key member of elite technical teams. Highly versatile; constantly developing expertise in new and emerging technologies. Hands-on experience in software development and testing using Java</string>
     <string name="Overview">Accomplished software engineer with more than 6 years of overall IT industry experience, including 4 years of experience in developing, deploying, and maintaining business-critical enterprise software as key member of elite technical teams. Highly versatile; constantly developing expertise in new and emerging technologies. Hands-on experience in software development and testing using Java. Adaptable team player with talent for collaboration and communication with diverse technical and cross-functional teams and interested in learning new technologies.</string>
 
-    <string name="skills">Languages:  Java 8,7,6,1.5
-Web:  HTML5, CSS3, JavaScript, JQuery, Bootstrap, Servlets, JSP
-Web Services:  REST, Microservices
-Web and Application Servers:  Apache Tomcat
-Frameworks:  Spring MVC, Spring Boot, Hibernate, Mockito
-Databases:  Cosmos Db, SQL Server MS, MySQL, MongoDB
-Design Patterns:  Singleton, Factory Method, Prototype
-Tools:  Eclipse, Intellij, Visual Studio code, Maven, Git, StarUml, Postman, swagger, scenebuilder, Spring Tool Suite (STS), Docker, kubernetes, Kafka, Jenkins, RabbitMQ, AtiveMQ
-Platforms:  Windows, Apple
-SDLC: Agile, Scrum
+    <string name="skills">JAVA : Java 8,7,6,1.5 \n
+WEB:HTML5, CSS3, JavaScript, JQuery, Bootstrap, Servlets \n
+WEB SERVICE : REST, Microservices \n
+APPLICATION SERVER :  Apache Tomcat \n
+FRAMEWORKS :  Spring MVC, Spring Boot, Hibernate, Mockito \n
+DATABASES :  Cosmos Db, SQL Server MS, MySQL, MongoDB \n
+DESIGN PATTERNS:  Singleton, Factory Method, Prototype
 
 </string>
     <string name="firstJob">Walmart labs 2021 - present
-<!--    <string name="firstJob">Software Engineer in Bank of Kigali, 2014 - 2020-->
 
 </string>
-<!--    <string name="secondJob">Walmart labs 2021 - present-->
-<!--</string>-->
+
     <string name="project1">1.	Driver Metrics</string>
     <string name="project2">2.	Driver Messaging</string>
     <string name="project3">3.  Driver earning Adjustment</string>
-    <string name="responsibility">•	Working in driver performance team as backend Developer
-•	Worked on different projects for Walmart and currently I am working on new project called proposition 22 which will help in paying California drivers amount which is above minimum wage of CA zones they worked in
-•	I use core Java, J2EE in Spring Boot, ORM frameworks like Hibernate, Cosmos db, meghacache, kafka, as technologies in my tasks and write unit test cases using Junit and Mockito
-•	Used postman to test Api endpoints and to upload the pricing templates, Swagger
-•	Experience in CI/CD using GitHub, Looper (Walmart CI tool which built on top of Jenkins), SonarQube and Contributing to all phases of the software development lifecycle
-•	Proficient in implementation of frameworks like Spring, Spring MVC, Spring Boot, and ORM frameworks like Hibernate.
-•	Technologies Used: IntelliJ, Eclipse, Vs code, MySQL, Java, HTML5, CSS3, Spring, Spring boot, Bootstrap, MongoDB, Cassandra, postman, swagger, Git
+    <string name="responsibility">
+•	Worked on different projects for Walmart and currently I am working on new project called proposition 22 which will help in paying California drivers amount which is above minimum wage of CA zones they worked in \n
+•	I use core Java, J2EE in Spring Boot, ORM frameworks like Hibernate, Cosmos db, meghacache, kafka, as technologies in my tasks and write unit test cases using Junit and Mockito \n
+        •	Experience in CI/CD using GitHub, Looper (Walmart CI tool which built on top of Jenkins), SonarQube and Contributing to all phases of the software development lifecycle \n
+        •	Technologies Used: IntelliJ, Eclipse, Vs code, MySQL, Java, HTML5, CSS3, Spring, Spring boot, Bootstrap, MongoDB, Cassandra, postman, swagger, Git
 
 </string>
 
-<!--    <string name="design">Design</string>-->
-<!--    <string name="uml">UML 2.0	I am experienced in visualize, specify, construct and document software using UML 2.0 language.-->
-<!--Tools	Enterprise Architect 11 and Rational Rose 7.</string>-->
-
-    <string name="programming"> Skills</string>
     <string name="programmingSkills">•	Working in driver performance team as backend Developer
-•	Worked on different projects for Walmart and currently I am working on new project called proposition 22 which will help in paying California drivers amount which is above minimum wage of CA zones they worked in
-•	I use core Java, J2EE in Spring Boot, ORM frameworks like Hibernate, Cosmos db, meghacache, kafka, as technologies in my tasks and write unit test cases using Junit and Mockito
-•	Used postman to test Api endpoints and to upload the pricing templates, Swagger
+•	Worked on different projects for Walmart and currently I am working on new project called proposition 22 which will help in paying California drivers amount which is above minimum wage of CA zones they worked in \n
+•	I <use></use> core Java, J2EE in Spring Boot, ORM frameworks like Hibernate, Cosmos db, meghacache, kafka, as technologies in my tasks and write unit test cases using Junit and Mockito \n
+•	Used postman to test Api endpoints and to upload the pricing templates, Swagger \n
 •	Experience in CI/CD using GitHub, Looper (Walmart CI tool which built on top of Jenkins), SonarQube and Contributing to all phases of the software development lifecycle
 
 </string>
     <string name="db">Database Design</string>
     <string name="dbSkills">Cosmos Db, SQL Server MS, MySQL, MongoDB</string>
     <string name="graduate">
-    Masters in Computer Science at Maharishi International University 2022, Fairfield, Iowa, United States of America.
+    Masters in Computer Science : Maharishi International University, Fairfield, Iowa, United States of America.
 </string>
     <string name="undergraduate">
-    University of Rwanda, College of Science and Technology
+    Bachelors in Electronics and Telecommunication : University of Rwanda, College of Science and Technology, Kigali campus.
 </string>
-<!--    <string name="highschool">-->
-<!--    Ecole Des Science Byimana, Advances Level in Mathematics and Physics. 2008, Byimana, Muhanga, Rwanda.-->
-<!--</string>-->
 </resources>

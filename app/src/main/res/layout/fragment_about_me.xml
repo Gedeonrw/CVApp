@@ -32,22 +32,13 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="30dp"></Space>
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Objectives"
-        android:textStyle="bold" />
+        android:layout_height="24dp"></Space>
 
 <!--    <TextView-->
 <!--        android:layout_width="match_parent"-->
 <!--        android:layout_height="wrap_content"-->
-<!--        android:text="@string/objective" />-->
-
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="20dp"></Space>
+<!--        android:text="Objectives"-->
+<!--        android:textStyle="bold" />-->
 
     <TextView
         android:layout_width="match_parent"
@@ -57,28 +48,12 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="20dp"></Space>
-
-<!--    <TextView-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:text="@string/design"-->
-<!--        android:textStyle="bold" />-->
-
-<!--    <TextView-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:text="@string/uml" />-->
+        android:layout_height="11dp"></Space>
 
     <Space
         android:layout_width="match_parent"
         android:layout_height="10dp"></Space>
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/programming"
-        android:textStyle="bold" />
 
     <TextView
         android:layout_width="match_parent"

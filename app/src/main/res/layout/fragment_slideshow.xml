@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="     SKILLS"
+        android:text="SKILLS"
         android:textStyle="bold" />
 
     <TextView
@@ -24,7 +24,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="   EXPERIENCE"
+        android:text="EXPERIENCE"
         android:textStyle="bold" />
 
     <TextView
@@ -33,68 +33,24 @@
         android:layout_height="wrap_content"
         android:text="@string/firstJob" />
 
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="14dp" />
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Objectives"
+        android:text="Position"
         android:textStyle="bold" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/my_profession" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Projects"
-        android:textStyle="bold" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/project1" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/project2" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/project3" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Responsibility"
-        android:textStyle="bold" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/responsibility" />
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="30dp"></Space>
-
-<!--    <TextView-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:text="@string/secondJob" />-->
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Objectives"
-        android:textStyle="bold" />
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/my_profession" />
+        android:layout_height="14dp" />
 
     <TextView
         android:layout_width="match_parent"
@@ -117,6 +73,10 @@
         android:layout_height="wrap_content"
         android:text="@string/project3" />
 
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="14dp" />
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -127,5 +87,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/responsibility" />
+
+    <!--    <TextView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="@string/secondJob" />-->
 
 </LinearLayout>
